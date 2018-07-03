@@ -1,0 +1,29 @@
+div{
+	display:block;
+}
+#wrapper{
+	width:auto;
+	height:auto;
+}
+#left{
+	float:left;
+	width:33%;
+	height:100%;
+	background:#b30000;
+}
+
+#topright{
+	width:67%;
+	height:50%;
+	background:green;
+}
+#bottomright{
+	width:67%;
+	height:50%;
+	background:blue;
+}
+#toprightt{
+	width:67%;
+	height:50%;
+	background:yellow;
+}
